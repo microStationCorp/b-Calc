@@ -6,7 +6,7 @@ class bCalculator:
 
     def __init__(self, root):
         #........................design..........................
-        root.title("bussiness calculator")
+        root.title("interest calculator")
 
         frame = Frame(root)
         frame.pack(side=TOP, padx=20, pady=20)
